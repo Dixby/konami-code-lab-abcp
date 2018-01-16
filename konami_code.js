@@ -4,7 +4,7 @@ function init() {
 
   let index = 0;
   
-  document.body.addlistener
+  document.body.addEventListener
 
 
 }
