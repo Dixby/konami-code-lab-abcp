@@ -8,6 +8,9 @@ function init() {
       const key = parseInt(e.which || e.detail);
       
       if (key === code[index]) {
+        index++;
+        
+      }
     }
     )
 
