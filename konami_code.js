@@ -10,6 +10,7 @@ function init() {
       if (key === code[index]) {
         index++;
         
+        if ()
       }
     }
     )
